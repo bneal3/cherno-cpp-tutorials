@@ -156,7 +156,7 @@ void PrintVector(const Vector<Vector3>& vector)
 
 int main()
 {
-	Vector<Vector3> vec;
+	Vector<Vector3> vec
 	vec.EmplaceBack(1.0f);
 	vec.EmplaceBack(2, 3, 4);
 	vec.EmplaceBack(3);
