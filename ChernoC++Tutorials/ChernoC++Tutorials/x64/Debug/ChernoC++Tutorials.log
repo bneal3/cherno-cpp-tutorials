@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\thebe\Desktop\Programming\C++\Projects\Tutorials\cherno-C++-tutorials\ChernoC++Tutorials\ChernoC++Tutorials\main.cpp(66,44): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\thebe\Desktop\Programming\C++\Projects\Tutorials\cherno-C++-tutorials\ChernoC++Tutorials\ChernoC++Tutorials\main.cpp(161,25): message : see reference to function template instantiation 'T &Vector<T>::EmplaceBack<int,int,int>(int &&,int &&,int &&)' being compiled
+          with
+          [
+              T=Vector3
+          ]
+C:\Users\thebe\Desktop\Programming\C++\Projects\Tutorials\cherno-C++-tutorials\ChernoC++Tutorials\ChernoC++Tutorials\main.cpp(161,17): message : see reference to function template instantiation 'T &Vector<T>::EmplaceBack<int,int,int>(int &&,int &&,int &&)' being compiled
+          with
+          [
+              T=Vector3
+          ]
+  ChernoC++Tutorials.vcxproj -> C:\Users\thebe\Desktop\Programming\C++\Projects\Tutorials\cherno-C++-tutorials\ChernoC++Tutorials\x64\Debug\ChernoC++Tutorials.exe
